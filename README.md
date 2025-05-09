@@ -1,2 +1,1 @@
-# SASS_project
-Project for Empirical Data Analysis
+This was a group project for the Empirical Data Analysis course, which explores special education teacher turnover with a focus on how school climate and behaviors influence teacher retention rates. We used the School and Staffing Surveys datasets from 1999-2000 as our primary datasets and utilized STATA to perform data cleaning, analysis, and visualization.
